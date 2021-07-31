@@ -12974,7 +12974,7 @@ button.bg-danger-soft:focus {
 
 .pt-5,
 .py-5 {
-    padding-top: 1rem !important;
+    padding-top: 3rem !important;
 }
 
 .pr-5,
@@ -12984,7 +12984,7 @@ button.bg-danger-soft:focus {
 
 .pb-5,
 .py-5 {
-    /* padding-bottom: 3rem !important; */
+    padding-bottom: 3rem !important;
 }
 
 .pl-5,
@@ -13008,7 +13008,7 @@ button.bg-danger-soft:focus {
 
 .pb-10,
 .py-10 {
-    /* padding-bottom: 6rem !important; */
+    padding-bottom: 6rem !important;
 }
 
 .pl-10,
@@ -22198,4 +22198,3 @@ span {
 }
 
 /*# sourceMappingURL=styles.css.map */
-
